@@ -15,13 +15,15 @@ This project is a lightweight hybrid cloud solution for archiving data from AWS 
 
 ---
 
-## 🏗️ Project Structure
+## 📁 Project Structure
+
+```bash
 s3-archive-script/
 │
-├── s3_data_archiver.py # Main Python script
-├── testfile.txt # Test file (for demonstration)
-└── README.md # Project documentation
----
+├── s3_data_archiver.py   # Main Python script
+├── testfile.txt          # Test file (for demonstration)
+└── README.md             # Project documentation
+```
 
 ## 🧠 How It Works
 
@@ -64,11 +66,13 @@ python3 s3_data_archiver.py
 
 ```
 
-##🧾 License
+## 🧾 License
 This project is open-source and available under the MIT License.
 
 ---
-##🙋‍♀️ Author
-Tejaswi Pathak
-DevOps Enthusiast | Cloud & Automation Engineer
-GitHub | LinkedIn
+
+## 🙋‍♀️ Author
+**Tejaswi Pathak**  
+DevOps Enthusiast | Cloud & Automation Engineer  
+[GitHub](https://github.com/TejPATHAK) | [LinkedIn](https://www.linkedin.com/in/tejpathak21/)
+
